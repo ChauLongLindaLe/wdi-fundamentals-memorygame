@@ -1,6 +1,6 @@
 header{
 	background-color: #F15B31;
-	font-color: #FFFFFF;
+	color: #FFFFFF;
 	padding:30px 20px;
 	margin: 0 ;
 }
@@ -8,7 +8,7 @@ h1{
 	font-family: "Raleway", sans-serif;
 	font-weight: 400;
 	font-size: 45px
-	color: white;
+	font-color: white;
 	letter-spacing: 1px;
 	margin: 0;
 	display: block;
@@ -75,7 +75,7 @@ p{
  	text-transform:uppercase;
  	padding: 0 20px;
  	background-color: #0D2C40;
- 	text-color :white;
+ 	color :white;
  	font-size: 14px;
  	letter-spacing: .08em;
  	font-weight: 500;
